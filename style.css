@@ -85,3 +85,9 @@
      .btns:hover {
           background:#0e5c2a
      }
+     .dashboard {
+          display: flex;justify-content: center;
+     }
+     .dashboard a{
+          color: #0e5c2a;text-decoration: none;font-weight: bold;justify-content: center;background-color: #ccc;padding: 15px;border-radius: 8px;
+     }
